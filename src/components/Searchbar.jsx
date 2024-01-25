@@ -24,7 +24,7 @@ const Searchbar = () => {
         onChange={(e) => setSearch(e.target.value)}
         onKeyDown={handleKeyDown}
       />
-      <button onClick={handleClick}>search</button>
+      {/* <button onClick={handleClick}>search</button> */}
     </>
   );
 };
