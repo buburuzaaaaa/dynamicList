@@ -136,3 +136,8 @@ body{
  .accordion-content {
    padding: 10px;
  }
+ .spotify-container{
+  background-color: green;
+  width: 20rem;
+  border-radius: 10px;
+ }
