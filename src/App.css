@@ -141,3 +141,28 @@ body{
   width: 20rem;
   border-radius: 10px;
  }
+
+
+ .App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.content-container {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+  width: 100%;
+
+  margin-top: 20%;
+}
+
+.spotify-container {
+  cursor: pointer;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-weight: bolder;
+}
